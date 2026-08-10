@@ -28,12 +28,11 @@ management, and business-focused data visualization.
 
 ### Executive Overview
 
-![Executive Overview](Executive_Overview.png)
+![Executive Overview] (Executive_Overview.png)
 
 ### Product & Operations Insights
 
-![Product & Operations Insights](Product_Operations_Insights.png)
-
+![Product & Operations Insights] (Product_Operations_Insights.png)
 ---
 
 ## 🎯 Key KPIs
