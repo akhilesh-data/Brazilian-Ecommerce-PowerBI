@@ -63,7 +63,7 @@ management, and business-focused data visualization.
 ### 👥 Customer Behavior
 
 - The dataset contains approximately **96.10K unique customers**.
-- Orders per customer were **1.03**, indicating that most customers placed only one order during the analyzed period.
+- The average was 1.03 orders per customer, indicating a predominantly one-order-per-customer purchasing pattern in the analyzed dataset.
 
 ### 📦 Product Performance
 
